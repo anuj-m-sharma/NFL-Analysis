@@ -14,8 +14,7 @@ Predict punting tendencies based off past data of punters(direction of punt, han
 
 
 **Data Resource:**
-NFL Big Data Bowl 2022
-www.kaggle.com/c/nfl-big-data-bowl-2022
+[NFL Big Data Bowl 2022] (www.kaggle.com/c/nfl-big-data-bowl-2022)
 
 
 **Future Work:**
