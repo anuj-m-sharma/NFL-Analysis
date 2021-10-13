@@ -27,10 +27,15 @@ Physical trait monitoring (heartbeat, oxygen level)
 
 
 Date Preprocessing
+
 Data Understanding and Exploration
+
 Data Preparation for Modeling
+
 Modeling
+
 Evaluation
+
 Results
 
 
