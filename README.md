@@ -1,3 +1,4 @@
+****NFL ANALYSIS****
 
 **Introduction to Problem:**
 We can present an opportunity to predict certain aspects of “Special Teams” of NFL games with the dataset which we will be working on. We can break down the data of kickoffs, field goals, and punts. With this project we should be able to discover how a team performs in “Special Teams” in field goal attempts, punts, and kickoffs. Our target population would consist of those with an interest in football, football coaches as they can use the data to determine when they should or shouldn’t punt or attempt a field goal, and place kickers that play football so they can use the data to gain a competitive advantage by improving their weaknesses or overall position weaknesses to set themselves apart from other place kickers or improve their skill set. For the purposes of this project, we plan on using predictive analysis to predict the outcome of a field goal, the outcome/type of kickoff, and punting tendencies. 
