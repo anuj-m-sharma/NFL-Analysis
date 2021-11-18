@@ -19,7 +19,7 @@ To predict the outcomes an NFL running backs fantasy football productions based 
 
 
 **Data Resource:**
-[Fantasy Pros] (https://www.fantasypros.com/)
+[Fantasy Pros] (https://www.fantasypros.com/) Relative attributes that we are interested in from the data for our project: Position: Running Back, stats: ruhshing yards per game, rushing attempts per game(the time in which the running back carries the football), and touchdowns per game.
 
 
 **Future Work:**
