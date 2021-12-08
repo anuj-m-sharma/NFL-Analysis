@@ -50,6 +50,8 @@ Based on our pairplot above, we found that the in-game statistics such as passin
 
 <img width="627" alt="Screen Shot 2021-11-13 at 3 39 38 PM" src="https://user-images.githubusercontent.com/59974878/141658436-7bd6417f-cabe-44b5-a4d9-70ba64eb5c62.png">
 
+
+
 We created a heat map above to see how much of a correlation there was specifically between all of our independent variables (passing yards per game, rushing yards per game, touchdowns per game, etc.) with fantasy points per game. Based on our heat map, we found that rushing yards per game, rushing attempts per game, attempts per game, targets per game, and total touchdowns per game have the most impact on our dependent variables fantasy points per game. Rushing touchdowns per game also had a heavy impact on a NFL running backs fantasy football points per game but we decided to combine both rushing touchdowns per game and passing yards per game since total touchdowns per game will be more of an accurate indicator for how many touchdowns that particular running back will produce. 
 
 **Machine Learning (Modeling)**
@@ -62,6 +64,7 @@ Based on our R squared values, our linear regression model for predicting FPTS/G
 
 
 **Conclusion**
+
 
 
 **References**
