@@ -10,7 +10,7 @@ For our project, we want to predict what a NFL running backs fantasy football pr
 
 What will a NFL running back's fantasy football point per game production be based on their in-game statistics such as rushing/passing yards per game, touchdowns per game, etc.? 
 
-What in-game statistics contribute most consistently to a NFL running back's fantasy football point and point per per game production?
+What in-game statistics contribute most consistently to a NFL running back's fantasy football point and point per game production?
 
 How accurately does a NFL running back's previous season statistics predict what they are going to do the next year they play? 
 
