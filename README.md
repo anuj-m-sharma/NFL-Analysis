@@ -51,8 +51,12 @@ Based on our pairplot above, we found that the in-game statistics such as passin
 <img width="627" alt="Screen Shot 2021-11-13 at 3 39 38 PM" src="https://user-images.githubusercontent.com/59974878/141658436-7bd6417f-cabe-44b5-a4d9-70ba64eb5c62.png">
 
 
-
 We created a heat map above to see how much of a correlation there was specifically between all of our independent variables (passing yards per game, rushing yards per game, touchdowns per game, etc.) with fantasy points per game. Based on our heat map, we found that rushing yards per game, rushing attempts per game, attempts per game, targets per game, and total touchdowns per game have the most impact on our dependent variables fantasy points per game. Rushing touchdowns per game also had a heavy impact on a NFL running backs fantasy football points per game but we decided to combine both rushing touchdowns per game and passing yards per game since total touchdowns per game will be more of an accurate indicator for how many touchdowns that particular running back will produce. 
+
+<img width="557" alt="Screen Shot 2021-12-07 at 9 40 17 PM" src="https://user-images.githubusercontent.com/59974878/145138801-50c036e8-edea-4b7a-ba08-a2242962383f.png">
+
+Based on the diagram above, we found the top 5 highest scoring NFL running backs in fantasy football. We want to highlight these 5 players shown in the diagram above because they are going to be the most valuable players at the most valuable position that fantasy football teams are going to want to try to draft so we want to see if they are going to have an upward or downward trend in their production based on our models.
+
 
 **Machine Learning (Modeling)**
 
@@ -65,7 +69,7 @@ Based on our R squared values, our linear regression model for predicting FPTS/G
 
 **Conclusion**
 
-
+One of the unique things about our project and dataset was that most predictive models for fantasy football are used to calculate the total fantasy points that a player is going to score all season. Although their total fantasy points is a valuable metric, fantasy points per game is much more valuable to predict because it takes out the randomness of football. A players season fantasy football point total could be extremely effected for a variety of reasons such as missing games due to injuries, illnesses, suspensions, etc., any missed game will effect a NFL running back's total fantasy football points scored for the season. By predicting their fantasy points per game, we can best predict what a running back's production will be when they play since we can't accurately predict when they will get injured or won't play. We did not have to deal with data imbalance in our project. When we downloaded our data, we had over 270 records of running back's for each season where 150-200 out of that 270 would have very low or no stats because they don't play a lot in an actual game. Because of that, we deleted those records for those running backs since the most important players will only be the ones that are actually playing and not just on the active roster. We did not have ay outliers that needed to be addressed nor did we need to impute our data. We created half of the metrix that we used for our project since the data we had originally had the players total passing yards, total rushing yards, and soon so we converted all of them to be on a per-game basis. The process we used for evaluation was the R squared model to tell us how much of our dataset fit the regression lines of the predcitive models we created. We ran into a few problems along the way in our model reation process. 
 
 **References**
 
